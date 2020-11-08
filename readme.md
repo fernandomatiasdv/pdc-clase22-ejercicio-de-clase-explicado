@@ -11,4 +11,5 @@
 </ul>
 
 <p>Para correr el proceso debes clonar este código e instalarlo localmente.</p>
-<pre style="background-color: lightgray; padding: 10px">    XXXX: YYYY    </pre>
+<pre style="background-color: lightgray; padding: 10px"> git clone https://github.com/fernandomatiasdv/pdc-clase22-ejercicio-de-clase-explicado.git    </pre>
+<pre style="background-color: lightgray; padding: 10px; margin-top: 15px;"> node app.js</pre>
