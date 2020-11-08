@@ -1,0 +1,11 @@
+{
+  "name": "ejer1",
+  "version": "1.0.0",
+  "description": "Este es nuestro primer acercamiento a node",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fer",
+  "license": "MIT"
+}
